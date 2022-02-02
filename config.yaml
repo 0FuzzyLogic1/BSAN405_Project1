@@ -1,6 +1,6 @@
-baseURL: http://example.com/
+baseURL: https://timcolebsan.netlify.app/
 languageCode: en-us
-title: Minimal
+title: Tim Cole BSAN Website
 theme: minimal
 disqusShortname: username
 googleAnalytics: ''
