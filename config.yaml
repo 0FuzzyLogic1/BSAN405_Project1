@@ -50,3 +50,6 @@ menu:
     - name: Projects
       url: /project/
       weight: 4
+    - name: Resume
+      url: /resume/Strategic plan tims part.docx
+      weight: 5
